@@ -34,6 +34,7 @@ It allows for:
 
 VersaTile is currently under rapid-development and is in pre-alpha.
 
+This branch is adding preliminary support for min-cut.
 
 Version
 ----
